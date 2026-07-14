@@ -48,13 +48,16 @@ Tribute-Page/
 ## 📸 Preview
 
 ### Home Page
-> Add a screenshot of your home page here.
+<img width="1905" height="961" alt="image" src="https://github.com/user-attachments/assets/e612be5a-2bd6-4244-ac7f-4cf5afb615f8" />
+
 
 ### Gallery Page
-> Add a screenshot of your gallery page here.
+<img width="1915" height="965" alt="image" src="https://github.com/user-attachments/assets/171015ce-bffa-47fa-8131-fedb6524c2b0" />
+
 
 ### Timeline Page
-> Add a screenshot of your timeline page here.
+<img width="1917" height="903" alt="image" src="https://github.com/user-attachments/assets/a922d962-38f7-4ae3-aab4-56949d0c6760" />
+
 
 ## 📖 About the Project
 
