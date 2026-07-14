@@ -1,0 +1,178 @@
+
+@media (max-width:1024px){
+
+    h1{
+        line-height:1.2;
+    }
+
+    .max-w-7xl,
+    .max-w-6xl,
+    .max-w-5xl{
+        padding-left:20px;
+        padding-right:20px;
+    }
+
+}
+
+@media (max-width:768px){
+
+    section{
+        padding-left:20px !important;
+        padding-right:20px !important;
+    }
+
+    .max-w-7xl,
+    .max-w-6xl,
+    .max-w-5xl{
+        padding-left:20px;
+        padding-right:20px;
+    }
+
+    h1{
+        font-size:2.5rem !important;
+        line-height:1.2;
+    }
+
+    h2{
+        font-size:2rem !important;
+    }
+
+    h3{
+        font-size:1.5rem !important;
+    }
+
+    p{
+        font-size:15px !important;
+        line-height:1.8;
+    }
+
+    img{
+        width:100%;
+        height:auto;
+        object-fit:cover;
+    }
+
+    .grid{
+        grid-template-columns:1fr !important;
+    }
+
+    .tracking-\[8px\]{
+        letter-spacing:4px !important;
+    }
+
+}
+
+@media (max-width:576px){
+
+    nav h1{
+
+        font-size:18px !important;
+
+    }
+
+    nav .max-w-7xl{
+
+        padding:14px 16px;
+
+    }
+
+    section{
+
+        padding-left:16px !important;
+        padding-right:16px !important;
+
+    }
+
+    h1{
+
+        font-size:2rem !important;
+
+    }
+
+    h2{
+
+        font-size:1.6rem !important;
+
+    }
+
+    h3{
+
+        font-size:1.25rem !important;
+
+    }
+
+    p{
+
+        font-size:14px !important;
+
+    }
+
+    button,
+    a{
+
+        font-size:14px;
+
+    }
+
+    .rounded-2xl{
+
+        padding:20px !important;
+
+    }
+
+}
+
+@media (max-width:768px){
+
+    #home{
+
+        background-size:contain;
+        background-repeat:no-repeat;
+        background-position:center;
+        background-color:#000;
+
+    }
+
+}
+
+@media (max-width:992px){
+
+    #currentDate,
+    #currentTime{
+        font-size:12px;
+    }
+
+}
+
+
+@media (max-width:768px){
+
+    .date-time{
+
+        display:none;
+
+    }
+
+}
+
+@media (max-width:768px){
+
+    .date-time{
+
+        display:flex !important;
+        flex-direction:column;
+        gap:2px;
+        font-size:11px;
+        align-items:flex-end;
+
+    }
+
+}
+
+@media (max-width:768px){
+
+    .date-time{
+        display:none !important;
+    }
+
+}

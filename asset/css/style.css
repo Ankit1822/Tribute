@@ -1,0 +1,16 @@
+.reveal{
+    opacity: 0;
+    transform:translateY(80px);
+    transition: all .8s ease;
+}
+
+.reveal.active{
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.active-link{
+    color:#fb923c;
+    border-bottom:2px solid #fb923c;
+    padding-bottom:4px;
+} 
